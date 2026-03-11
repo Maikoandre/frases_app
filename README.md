@@ -4,14 +4,7 @@ A new Flutter project.
 
 ## Project Description
 
-A Flutter application for displaying and managing quotes (frases) with a clean and intuitive user interface.
-
-## Features
-
-- Browse a collection of inspirational quotes
-- Search and filter quotes
-- Save favorite quotes
-- Share quotes with others
+A Flutter application for displaying quotes with a clean and intuitive user interface.
 
 ## Prerequisites
 
