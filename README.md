@@ -2,16 +2,49 @@
 
 A new Flutter project.
 
-## Getting Started
+## Project Description
 
-This project is a starting point for a Flutter application.
+A Flutter application for displaying and managing quotes (frases) with a clean and intuitive user interface.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Browse a collection of inspirational quotes
+- Search and filter quotes
+- Save favorite quotes
+- Share quotes with others
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Prerequisites
+
+- Flutter SDK (version 3.0 or higher)
+- Dart SDK
+- Android Studio or Xcode (for iOS development)
+
+## Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/frases_app.git
+cd frases_app
+```
+
+2. Install dependencies:
+```bash
+flutter pub get
+```
+
+3. Run the app:
+```bash
+flutter run
+```
+
+## Building
+
+To build a release version:
+```bash
+flutter build apk  # For Android
+flutter build ios  # For iOS
+```
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
